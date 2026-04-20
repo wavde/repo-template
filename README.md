@@ -1,5 +1,7 @@
 # {{PROJECT_NAME}}
 
+> **This is a template.** GitHub's "Use this template" button copies the skeleton; then replace `{{PROJECT_NAME}}` placeholders below.
+
 > One-line hook: what this project answers / ships, and why it matters.
 
 ![CI](https://github.com/wavde/{{PROJECT_NAME}}/actions/workflows/ci.yml/badge.svg)
